@@ -1,0 +1,32 @@
+footer {
+    background-color: #65b8a6;
+    font-size: larger;
+}
+
+footer .container {
+    width: 100%;
+    text-align: center;
+}
+    background-color: #65b8a6;
+    footer .container {
+    width: 100%;
+    text-align: center;
+}
+.mitr-regular {
+  font-family: "Mitr", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {
+  font-family: "Itim", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.orange {
+  font-family: "Mitr", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color :#001d3d
+}
